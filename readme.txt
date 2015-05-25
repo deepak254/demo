@@ -1,0 +1,1 @@
+All documents can be stored into a mongodb collection.and then we can perform any type of operation we want.
